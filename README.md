@@ -3,6 +3,7 @@
 💞️ /* I’m currently studying: More Python, MySQL (module in Python), and relearning C++ */<br />
 💞️ # I’m looking to switch or expand my career options from Mechanical Design Engineering, to program/software and/or Mechatronics development.<br />
 📫 // Message me on LinkedIn if you are interested in learning more about what I can do for you or your business!<br />
+https://www.linkedin.com/in/michaelcohenengineer/ <br />
 
 <!---
 Syrpynt/Syrpynt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
